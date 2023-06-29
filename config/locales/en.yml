@@ -31,3 +31,5 @@
 
 en:
   hello: "Hello world"
+  errors:
+    default: 'Oops, Something gone wrong.'
